@@ -10,7 +10,7 @@ env:
   GKE_CLUSTER: work-cluster
   GKE_ZONE: us-central1-c
   DEPLOYMENT_NAME: github-actions-gke
-  IMAGE: github-actions-gke-image10
+  IMAGE: github-actions-gke-image11
   TAG: 1.0.0
 
 jobs:
